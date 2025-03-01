@@ -1,9 +1,10 @@
-- 👋 Hi, I’m @JiviGHUB
-- 👀 I’m interested in ... building app and program 
-- 🌱 I’m currently learning ... to work in dev mode 
+- 👋 Hi, I’m Jonathan.V
+  🦾Master Coder of LogiPRO app 🦾
+- 👀 I’m interested in ... building apps and programs
+- 🌱 I’m currently learning ... to work in dev mode to build my apps
 - 💞️ I’m looking to collaborate on ... Management app
 - 📫 How to reach me ...By email ; jo.vermette@hotmail.ca
-- 😄 Pronouns: ... him
+- 😄 Pronouns: ... J V 
 - ⚡ Fun fact: ... first time in this thing XD I learn with AI !
 
 <!---
