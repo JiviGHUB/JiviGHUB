@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Jonathan.V
+- 👋 Hi, I’m Jivi
   🦾Master Coder of LogiPRO app 🦾
 - 👀 I’m interested in ... building apps and programs
 - 🌱 I’m currently learning ... to work in dev mode to build my apps
