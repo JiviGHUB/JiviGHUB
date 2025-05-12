@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jivi
   
-🦾Master Coder of LogiPRO app 🦾
+Master Coder of LogiPRO app 🦾
 - 
 👀 I’m interested in ... building apps and programs
 - 
